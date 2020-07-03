@@ -7,6 +7,6 @@ OpenCV already contains many pre-trained classifiers for face, eyes, smile etc.
 
 >results:
 
-![face](https://github.com/zackq88/face-eye-detection-Haar-Cascades/blob/master/result.png) <!-- .element height="50%" width="50%" -->
+![face](https://github.com/zackq88/face-eye-detection-Haar-Cascades/blob/master/result.png) .element height="50%" width="50%" 
 ___________________________________________________________________________________________________________________________________________________________
-![faces](https://github.com/zackq88/face-eye-detection-Haar-Cascades/blob/master/result2.png =25x25)
+![faces](https://github.com/zackq88/face-eye-detection-Haar-Cascades/blob/master/result2.png)
