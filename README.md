@@ -34,7 +34,6 @@ So this is a simple intuitive explanation of how Viola-Jones face detection work
 __________________________________________________________________________________________________________________________________________________________________
 
 
->more [details](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection)
 
 >results:
 
