@@ -35,8 +35,7 @@ ________________________________________________________________________________
 
 
 
->results:
+results:
 
 ![face](https://github.com/zackq88/face-eye-detection-Haar-Cascades/blob/master/result.png)
-___________________________________________________________________________________________________________________________________________________________
-![faces](https://github.com/zackq88/face-eye-detection-Haar-Cascades/blob/master/result2.png)
+
