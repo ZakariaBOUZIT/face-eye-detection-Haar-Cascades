@@ -1,7 +1,10 @@
 ### face-eye detection/Haar-Cascades
 note:
-detect_face&eye_video.py : real-time detection.
-face&eye_image_detection.py : image detection.
+
+**detect_face&eye_video.py** : real-time detection.
+
+
+**face&eye_image_detection.py** : image detection.
 
 OpenCV already contains many pre-trained classifiers for face, eyes, smile etc.
 
